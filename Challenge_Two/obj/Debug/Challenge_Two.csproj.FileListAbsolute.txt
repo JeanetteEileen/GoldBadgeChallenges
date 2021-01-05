@@ -1,0 +1,6 @@
+c:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\Challenge_Two\bin\Debug\Challenge_Two.dll
+c:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\Challenge_Two\bin\Debug\Challenge_Two.pdb
+c:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\Challenge_Two\obj\Debug\Challenge_Two.csprojAssemblyReference.cache
+c:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\Challenge_Two\obj\Debug\Challenge_Two.csproj.CoreCompileInputs.cache
+c:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\Challenge_Two\obj\Debug\Challenge_Two.dll
+c:\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenges_Good\Challenge_Two\obj\Debug\Challenge_Two.pdb
